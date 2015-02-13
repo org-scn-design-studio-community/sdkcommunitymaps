@@ -1,4 +1,4 @@
-[ { "label" : "Community Maps",
+{ "label" : "Community Maps",
     "maps" : [ { "label" : "Global",
           "maps" : [ { "label" : "Countries",
                 "url" : "world-countries.json"
@@ -21,58 +21,57 @@
         },
         { "label" : "Europe",
           "maps" : [ { "label" : "United Kingdom",
-                "url" : "United-Kingdom-regions.json"
+                "url" : "Europe/United-Kingdom-regions.json"
               },
               { "label" : "France",
-                "url" : "France-regions.json"
+                "url" : "Europe/France-regions.json"
               },
               { "label" : "Germany",
-                "url" : "Germany-regions.json"
+                "url" : "Europe/Germany-regions.json"
               },
               { "label" : "Greenland",
-                "url" : "Greenland-regions.json"
+                "url" : "Europe/Greenland-regions.json"
               },
               { "label" : "Albania",
-                "url" : "Aland-regions.json"
+                "url" : "Europe/Aland-regions.json"
               },
               { "label" : "Åland Islands",
-                "url" : "Aland-regions.json"
+                "url" : "Europe/Aland-regions.json"
               }
             ]
         },
         { "label" : "Africa",
           "maps" : [ { "label" : "Nigeria",
-                "url" : "Nigeria-regions.json"
+                "url" : "Africa/Nigeria-regions.json"
               },
               { "label" : "Ethiopia",
-                "url" : "Ethiopia-regions.json"
+                "url" : "Africa/Ethiopia-regions.json"
               },
               { "label" : "Egypt",
-                "url" : "Egypt-regions.json"
+                "url" : "Africa/Egypt-regions.json"
               }
             ]
         },
         { "label" : "Asia",
           "maps" : [ { "label" : "China",
-                "url" : "China-regions.json"
+                "url" : "Asia/China-regions.json"
               },
               { "label" : "Hong Kong",
-                "url" : "Hong-Kong-regions.json"
+                "url" : "Asia/Hong-Kong-regions.json"
               },
               { "label" : "India",
-                "url" : "India-regions.json"
+                "url" : "Asia/India-regions.json"
               },
               { "label" : "Indonesia",
-                "url" : "Indonesia-regions.json"
+                "url" : "Asia/Indonesia-regions.json"
               },
               { "label" : "Iraq",
-                "url" : "Iraq-regions.json"
+                "url" : "Asia/Iraq-regions.json"
               },
               { "label" : "Afghanistan",
-                "url" : "Afghanistan-regions.json"
+                "url" : "Asia/Afghanistan-regions.json"
               }
             ]
         }
       ]
   }
-]
